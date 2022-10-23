@@ -77,7 +77,7 @@
             }
         }
 
-        //  6 Percorra o array [1,2,3,4,5,6,7,8,9,10] e exiba apenas os valores pares.
+        // 6 Percorra o array [1,2,3,4,5,6,7,8,9,10] e exiba apenas os valores pares.
         var array = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
         var div5 = document.getElementById("5");
 
